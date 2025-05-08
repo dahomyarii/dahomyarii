@@ -17,7 +17,7 @@
 
 ---
 
-## ⚡️ Mood:
+## ⚡️ قَادِح?:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5d541227-1c6a-40ec-8486-6d044b039bb5" alt="You must be قَادِح!" width="400"/>
@@ -27,4 +27,4 @@
 
 ---
 
-💻 Check out my pinned repositories below to see what I'm building.
+💻 Check out my repositories below.
