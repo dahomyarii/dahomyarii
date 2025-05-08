@@ -22,7 +22,7 @@ I’m a back-end developer
   <img src="https://github.com/user-attachments/assets/5d541227-1c6a-40ec-8486-6d044b039bb5" alt="You must be قَادِح!" width="400"/>
 </p>
 
-> 💬 “You must be قَادِح!” – Always staying sharp, always grinding.
+> 💬 “You must be قَادِح!” – Always staying قَادِح.
 
 ---
 
