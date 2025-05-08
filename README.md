@@ -1,5 +1,30 @@
+# 👋 Welcome to My GitHub Profile
 
-![IMG-20250507-WA0004](https://github.com/user-attachments/assets/d2936391-77dd-4710-af92-4678bc14d27f)
-![Snapchat-383013334](https://github.com/user-attachments/assets/a607bb6c-99de-4438-9c1c-30048c2b0f5e)
-![Screenshot_20250508_145631](https://github.com/user-attachments/assets/5d541227-1c6a-40ec-8486-6d044b039bb5)
-![Screenshot_20250506_192032](https://github.com/user-attachments/assets/2e1657be-b170-437b-b893-8024c02d052d)
+---
+
+🎯 I’m passionate about learning, building, and leveling up constantly.  
+💡 I believe in showing the receipts — here’s what I’ve been up to:
+
+---
+
+## 📜 Certificates
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d2936391-77dd-4710-af92-4678bc14d27f" alt="Certificate 1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a607bb6c-99de-4438-9c1c-30048c2b0f5e" alt="Certificate 2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/5d541227-1c6a-40ec-8486-6d044b039bb5" alt="Certificate 3" width="300"/>
+</p>
+
+---
+
+## ⚡️ Mood:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e1657be-b170-437b-b893-8024c02d052d" alt="You must be قَادِح!" width="400"/>
+</p>
+
+> 💬 “You must be قَادِح!” – Always staying sharp, always grinding.
+
+---
+
+💻 Check out my pinned repositories below to see what I'm building.
