@@ -1,13 +1,12 @@
-# 👋 Welcome to My GitHub Profile
+# Welcome
 
 ---
 
-🎯 I’m passionate about learning, building, and leveling up constantly.  
-💡 I believe in showing the receipts — here’s what I’ve been up to:
+I’m a back-end developer  
 
 ---
 
-## 📜 Certificates
+## Certificates
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d2936391-77dd-4710-af92-4678bc14d27f" alt="Certificate 1" width="300"/>
@@ -17,7 +16,7 @@
 
 ---
 
-## ⚡️ قَادِح?:
+## you must be قَادِح!:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5d541227-1c6a-40ec-8486-6d044b039bb5" alt="You must be قَادِح!" width="400"/>
